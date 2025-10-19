@@ -1,0 +1,15 @@
+{
+  "serverIP": "your.rust.server.ip",
+  "serverPort": 28015,
+  "players": [
+    {
+      "steamID": "76561198000000000",
+      "discordMention": "<@123456789012345678>"
+    },
+    {
+      "steamID": "76561198000000001",
+      "discordMention": "<@987654321098765432>"
+    }
+  ],
+  "updateInterval": 300000
+}
